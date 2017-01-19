@@ -40,3 +40,11 @@ Barrera
 
 
 {% youtube %}https://www.youtube.com/watch?v=kdpfRLpu0FQ{% endyoutube %}
+
+{% mermaid %}
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+{% endmermaid %}
