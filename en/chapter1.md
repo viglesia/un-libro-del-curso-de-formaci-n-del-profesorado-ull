@@ -34,9 +34,6 @@ An image: ![Una imagen de GitBook](/assets/image.jpg)
 
 discapacidad 
 
-{% youtube %}https://www.youtube.com/watch?v=KFF5bBLX7ME{% endy
-
-
 discapacidad
   
 Barrera 
