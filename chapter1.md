@@ -32,9 +32,7 @@ An image: ![Una imagen de GitBook](/assets/image.jpg)
 An image: ![Una imagen de GitBook](/assets/image.jpg)
 
 
-Barrera 
-## discapacidad
-Falta o limitación de alguna facultad física o mental que imposibilita o dificulta el desarrollo normal de la actividad de una persona.
+discapacidad 
 
 
 
