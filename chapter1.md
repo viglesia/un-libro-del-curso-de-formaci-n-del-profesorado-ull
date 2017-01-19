@@ -34,5 +34,8 @@ An image: ![Una imagen de GitBook](/assets/image.jpg)
 
 discapacidad 
 
+discapacidad
+
+Barrera 
 
 
